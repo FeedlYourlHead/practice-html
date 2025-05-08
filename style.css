@@ -1,4 +1,9 @@
 thead{
-    background-origin: padding-box;
-    color: black;
+   text-shadow: 90px;
+ }
+td {
+   size: 11110px;
+ }
+ tr {
+    color: blueviolet;
  }
