@@ -1,11 +1,14 @@
 thead{
-   text-shadow: 20px;
+   text-shadow: 100%;
  }
 td {
-   size: 1080%;
+   size: 100%;
  }
  tr {
-    background-color: blueviolet;
+    background-color: burlywood;
  }
+ textarea {
+   margin: auto;
+ }   
 
  
