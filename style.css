@@ -2,10 +2,10 @@ thead{
    text-shadow: 20px;
  }
 td {
-   sizE: 1080%;
+   size: 1080%;
  }
  tr {
-    color: blueviolet;
+    background-color: blueviolet;
  }
 
  
